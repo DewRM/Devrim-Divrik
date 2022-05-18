@@ -11,3 +11,6 @@ This website has a 8 parts.
 6- MY SERVICES
 7- CONTACT
 8- SOCIAL MEDIAS
+
+
+DEMO LINK: https://devrim.netlify.app/
